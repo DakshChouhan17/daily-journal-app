@@ -5,9 +5,6 @@ import ProtectedRoute from './components/ProtectedRoute.jsx';
 import Dashboard from './pages/DashBoard.jsx';
 import NotFound from './pages/NotFound.jsx';
 
-<h1 className="text-4xl text-blue-600 font-bold">Tailwind is Working</h1>
-
-
 function App() {
   return (
     <BrowserRouter>
